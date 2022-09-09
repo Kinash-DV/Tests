@@ -1,0 +1,1 @@
+"C:\Program Files\1cv8\8.3.18.1779\bin\1cv8c" /N"Admin" /TestManager /Execute "D:\WORK\Testing\vanessa-automation\vanessa-automation.epf" /IBConnectionString "File=""D:\WORK\Demo 2"";" /C"StartFeaturePlayer;QuietInstallVanessaExt;VAParams=D:\GIT\Tests\Final\VAParams.json"

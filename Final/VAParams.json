@@ -3,6 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.039.1",
+	"КаталогФич": "D:\\GIT\\Tests\\Final",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
@@ -14,7 +15,7 @@
 	"ВерсияПлатформыДляГенерацииEPF": "C:\\Program Files\\1cv8\\8.3.18.1779\\bin\\",
 	"КомандаОткрытияФичиВТекстовомРедакторе": "\"E:\\Microsoft VS Code\\Code.exe\" -g %Feature%:%LineNumber%",
 	"ПоставщикПользовательскихНастроек": "NotUse",
-	"ИспользоватьРедакторVanessaEditor": true,
+	"ИспользоватьРедакторVanessaEditor": false,
 	"ТемаРедактораVanessaEditor": "vs",
 	"ИспользоватьДанныеТекущейФормыПриПодбореШагов": true,
 	"ПоказыватьСтрокиПодсценариевVanessaEdittor": false,
@@ -105,7 +106,6 @@
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
 		"D:\\WORK\\Testing\\vanessa-automation\\features\\Libraries",
-		"D:\\GIT\\Tests\\Module 2"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
